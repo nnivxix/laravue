@@ -2,7 +2,7 @@
 
 # Laravue
 
-The Boilerplate Laravel 9.x and Vue 3.x, Download it and happy coding create great app. 
+The Boilerplate Laravel 9.x and Vue 3.x, Download it and happy coding let's create great app. 
 
 ## How to Download
 
